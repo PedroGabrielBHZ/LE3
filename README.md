@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project involves analysis and modeling of data using Jupyter notebooks. The data used in this project is stored in CSV files.
+This project involves NLP analysis and modeling of data using Jupyter notebooks. The data used in this project is stored in CSV files.
 
 ## File Structure
 
@@ -22,7 +22,7 @@ This project involves analysis and modeling of data using Jupyter notebooks. The
 ## Setup
 
 1. Clone this repository to your local machine.
-2. Install the necessary Python packages. This project uses Jupyter notebooks, pandas, numpy, and scikit-learn.
+2. Install the necessary Python packages.
 3. Open the Jupyter notebooks (`q1.ipynb` and `q2.ipynb`) to view the analysis and models.
 
 ## Usage
